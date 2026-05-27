@@ -1,5 +1,5 @@
 {
-  "name": "products-service-cds",
+  "name": "@sap/capire-products",
   "version": "1.0.0",
   "devDependencies": {
     "@sap/cds-dk": "^9.7.2"
